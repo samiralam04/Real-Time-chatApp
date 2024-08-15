@@ -6,7 +6,7 @@ A real-time chat application built with React and Google Firebase. This app allo
 
 - Real-time messaging
 - User authentication with Firebase Authentication
-- Responsive design for laptop and desktop
+- Designed only for laptop and desktop
 - User-friendly interface
 
 ## Demo
