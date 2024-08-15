@@ -11,7 +11,7 @@ A real-time chat application built with React and Google Firebase. This app allo
 
 ## Demo
 
-You can view a live demo of the app [here](https://your-github-username.github.io/your-repository-name).
+You can view a live demo of the app [here]( https://samiralam04.github.io/Real-Time-chatApp/).
 
 ## Technologies Used
 
@@ -51,6 +51,11 @@ This app uses Firebase Authentication to handle user sign-up, login, and authent
 
 To run this project locally, follow these steps:
 
+## Made by
+Samir alam
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-github-username/your-repository-name.git
+
+   
